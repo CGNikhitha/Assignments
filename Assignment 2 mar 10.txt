@@ -1,0 +1,16 @@
+<DOCTYPE! html>
+<html>
+<body>
+<ol>
+<li value="7">Links</li>
+<li>Images</li>
+<li>Lists</li>
+<ol type="i">
+    <li>Introduction</li>
+    <li>Displaying a List</li>
+    <li>And Others...</li>
+</ol>
+<li>Tables</li>
+</ol>
+</body>
+</html>

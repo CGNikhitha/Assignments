@@ -1,0 +1,12 @@
+<DOCTYPE! html>
+<html>
+<body>
+<ol>
+    <li type="1">One</li>
+    <li>Two</li>
+    <li>Miss a few</li>
+    <li value="99">Ninety Nine</li>
+    <li>Hundred</li>
+</ol>
+</body>
+</html>

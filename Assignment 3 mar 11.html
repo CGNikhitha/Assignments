@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <h3>Enter age in years:</h3>
+        <input type="number" id="age">
+        <button onclick="calcAge(document.getElementById('age').value)">Submit</button>
+        <h3 id="pri"></h3>
+        <script>
+            function calcAge(a)
+            {
+                var result=a*365;
+                console.log(result);
+                document.getElementById("pri").innerHTML="Your age in days :"+result;
+            }
+        </script>
+    </body>
+</html>
